@@ -85,11 +85,6 @@ body{
 .button{
     color: white;
 }
-
-
-
-
-
 /******************************************Header**************************************************/
 .home-header{
     background-color: #012D5B;
@@ -101,9 +96,7 @@ body{
 .home-header ul a i{
     margin: 0 10px;
     font-size: 10px;
-  
 }
-
 .home-header .address address,.home-header .email address{
     margin-left: 10px;
     font-size: 15px;
@@ -215,8 +208,6 @@ background-color: #FD656B;
     font-weight: 700;
     padding: 150px 0;
 }
-
-
 .hero-heading{
    width: 60%;
    height: 600px;
@@ -340,7 +331,6 @@ margin-top: 20px;
 .wetrusted-article p{
     margin: 30px 0;
     padding: 20px 0;
-    
 }
 .wetrusted-section{
     justify-content: start;
@@ -484,7 +474,6 @@ margin-top: 20px;
     font-size: 40px;
     font-weight: 800;
     color: white;
-   
 }
 .call-back-col-1 p{
     font-size: 15px;
@@ -513,14 +502,11 @@ margin-top: 20px;
     border-radius: 5px;
     margin: 0 20px;
     font-size: 15px;
-    
 }
 .phone{
     margin-left: 0;
     padding-left: 10px;
 }
-
-
 .call-back-box{
     padding: 80px 0;
 }
@@ -549,7 +535,6 @@ margin-top: 20px;
     font-size: 10px;
     
 }
-
 /***********************************************footer section*******************************/
 .footer{
     background-color: #F8FAFE;
@@ -571,7 +556,6 @@ margin-top: 20px;
     color: black;
     margin-top: 20px;
 }
-
 .company h2,.service-col-2 h2,.get h2{
     font-size:20px ;
     font-weight: bold;
@@ -579,7 +563,6 @@ margin-top: 20px;
     margin: 0;
     padding: 0;
 }
-
 .nav-style{
     color: #B2BAC4;
     font-size: 15px;
@@ -598,7 +581,6 @@ margin-top: 20px;
     height: 1px;
     background-color: #B2BAC4;
 }
-
 .footer-footer{
     text-align: center;
 }
@@ -612,10 +594,7 @@ padding: 30px 0;
 .footer-footer h2 i{
     color: #FD656B;
 }
-
-
 /*********************************************Case STUDY****************************************/
-
 .case-study{
     background-color: #F8FAFE;
 }
@@ -625,9 +604,7 @@ padding: 30px 0;
     flex-direction: column;
     width: 30%;
     position: relative;
-
 }
-
 .box .marketing h2{
   font-size: 25px;
   font-weight: bold;
@@ -639,26 +616,18 @@ padding: 30px 0;
 }
 .box img{
     width: 100%;
-    
-
 }
 .marketing{
-   
     background-image: linear-gradient(to top,white,white);
-   
     width: 80%;
     padding: 15px;
     position:absolute;
     bottom: 20px;
     left: 0;
-    
-
 }
 .row{
     padding: 200px 0;
     width: 100%;
-   
-
 }
 .row-2{
     
@@ -670,7 +639,6 @@ padding: 30px 0;
     justify-content: space-between;
     padding-bottom: 0;
 }
-
 /***********************************************contact section********************************/
 .map{
     padding: 80px 0 40px 0;
@@ -678,7 +646,6 @@ padding: 30px 0;
 .map iframe{
     width: 100%;
 }
-
 .get-in-touch h3{
 font-size: 30px;
 font-weight: bold;
@@ -687,7 +654,6 @@ margin-bottom: 10px;
 .get-in-touch{
     width: 100%;
     padding-bottom: 60px;
-
 }
 .enter-message{
     width: 100%;
@@ -714,7 +680,6 @@ margin-bottom: 10px;
     border: 1px solid gray;
     margin-bottom: 50px;
     padding: 20px;
-    
 }
 .get-in-touch button{
    
@@ -724,20 +689,17 @@ margin-bottom: 10px;
     padding: 20px 50px;
     font-size: 15px;
     background-color: white;
-
 }
 .get-in-touch button a{
     text-decoration: none;
     color: #FEAFB2;
     text-transform: uppercase;
     padding: 0;
-    
 }
 .get-in-touch h2{
     font-size: 12px;
     color: gray;
     font-weight: unset;
-
 }
 .contact-address{
     margin-left: 40px;
@@ -751,13 +713,10 @@ margin-bottom: 10px;
     color: gray;
     font-size: 30px;
     margin-right: 20px;
-  
-  
 }
 .align-center{
     align-items: center;
     border: 1px solid black;
-   
 }
 .contact-address span{
     color: gray;
@@ -775,8 +734,6 @@ margin-bottom: 10px;
 .mail{
     margin-left: 8px;
 }
-
-
 /*****************************************************Blog page************************************************/
 .left{
     width: 60%;
@@ -804,27 +761,24 @@ margin-bottom: 10px;
 .calender h3{
     font-size: 20px;
     color: white;
-    
 }
 .story{
-    background-color: whitesmoke;
+    background-color: #FFFFFF;
    padding-top: 40px;
     width: 100%;
     height: 250px;
     margin-top: -20px;
+    box-shadow: 1px -1px 25px 5px whitesmoke;
 }
-
 .first-blog{
     position: relative;
-    margin: 20px 0;
-    
+    margin: 20px 0;   
 }
 .first-blog img{
     width: 100%;
 }
 .story h2{
     font-size: 25px;
-
 color: #012D5B;
 font-weight: bold;
 margin:20px 10px;
@@ -841,6 +795,27 @@ margin-left: 40px;
     padding: 20px 0;
     margin-left: 40px;
 }
+.next-page{
+    justify-content: center;
+    align-items: center;
+   
+}
+.next-page div{
+    border: 1px solid #F8F6FF;  
+    margin: 70px 10px;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;  
+}
+.next-page div{
+    color: gray; 
+    font-size: 15px;  
+    background-color: white;
+}
+.next-page .two{
+    background-color: #FBF9FF;  
+}
 
 /*********************************aside section*****************************************/
 .our-blog{
@@ -851,9 +826,144 @@ margin-left: 40px;
     padding: 100px 0;
 }
 .search-box{
-    width: 100%;
+    width: 350px;
+    height: 250px;
    background-color: #FBF9FF;
+   flex-direction: column;
+   justify-content: space-evenly;
+   padding: 25px;
+}
+.search-bar{
+   
+    background-color: white;
+    align-items: center;
 }
 .search-bar h2{
-    width:100px;
+    padding-left: 20px;
+    font-size: 15px;
+    color: #B2BAC4;
+}
+.search-bar i{
+    border: 1px solid #FD656B;
+    background-color: #FD656B;
+    color: white;
+    padding: 15px;
+}
+.search-btn{
+    border: 1px solid #FD656B;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #FD656B;
+    justify-content: center;
+    background-color: white;
+    padding: 15px;
+}
+
+/********************category block************/
+.category{
+    background-color: #FBF9FF;
+     width: 350px;
+     margin: 20px 0;
+}
+.category h2,.post-list h2,.tag-clouds h2,.insta-feed h2,.search-box h4{
+    font-size: 20px;
+    font-weight: bold;
+}
+.category ul{
+    font-size: 15px;
+    color: #B2BAC4;
+}
+.category hr{
+    background-color: #B2BAC4;
+    margin: 20px 0;
+}
+.category-list{
+    padding: 25px;
+}
+.category-list .first-list{
+    margin-top: 20px;
+}
+/**************************recent post block****************/
+.recent-post{
+    width: 350px;
+    background-color: #FBF9FF;
+    margin: 20px 0;
+}
+.post-list ul li{
+    margin: 20px 0;
+    justify-content: start;
+}
+.post-list h3{
+    font-size: 15px;
+    font-weight: bold;
+}
+.post-list time{
+    font-size: 15px;
+    color: #B2BAC4;
+}
+.post-list .time-reason{
+    margin-left: 30px;
+}
+.post-list{
+    padding: 25px;
+}
+.post-list .first-list{
+    margin-top: 40px;
+}
+
+/************************Tag clouds********************/
+.tag-clouds{
+    width: 350px;
+    background-color: #FBF9FF;
+    margin: 20px 0;
+}
+.tag-clouds .first-row h3{
+    background-color: white;
+padding: 0px 20px;    
+margin: 10px;
+margin-left: 0;
+font-size: 12px;
+color: #B2BAC4;
+}
+.tag-cloud-list{
+    padding: 25px;
+}
+.tag-clouds .third-row{
+    justify-content: start;
+}
+
+/*************************insta feeds******************/
+.insta-feed{
+    width: 350px;
+    background-color: #FBF9FF;
+    margin: 20px 0;
+}
+
+.insta-feed .img-row{
+justify-content: start;
+margin: 10px 0;
+margin-top: 20px;
+}
+.insta-feed .img-row img{
+    margin: 0 10px;
+    margin-left: 0;
+}
+.insta-list{
+    padding: 25px;
+}
+/**************************News letter************************/
+.mail-box{
+    padding: 15px;
+}
+.search-btn h3{
+    letter-spacing: 3px;
+}
+
+/*******************right aside*****************/
+.right{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.our-blog{
+    justify-content: start;
 }
